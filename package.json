@@ -11,6 +11,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.2",
+    "serverless-http": "^3.2.0",
     "yaml": "^2.6.1"
   }
 }
